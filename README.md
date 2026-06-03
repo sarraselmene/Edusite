@@ -55,8 +55,8 @@ git clone https://github.com/ton-username/projectweb.git
 
 | Technologie | Usage |
 |-------------|-------|
-| HTML5 | Structure des pages |
-| CSS3 | Mise en forme et responsive design |
+| HTML | Structure des pages |
+| CSS | Mise en forme et responsive design |
 | JavaScript | Interactions et dynamisme |
 
 ---
